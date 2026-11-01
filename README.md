@@ -26,7 +26,7 @@ The following examples show different flavours of what could be encoded using `@
 | Century | Source | Notation |
 |:----:|:------:|:--------:|
 | XIV | [Tournai](https://www.diamm.ac.uk/sources/7/)<br>p. 1 | ![](examples/Messe_de_Tournai_B-Tc_476_p1.png) |
-| XIV | [Chantilly](https://www.diamm.ac.uk/sources/201/)<br>f. 44 | ![](examples/Cuvelier?_En_la_saison_Codex_Chantilly_f44.png) |
+| XIV | [Chantilly](https://www.diamm.ac.uk/sources/201/)<br>f. 44 | ![](examples/Cuvelier_En_la_saison_Codex_Chantilly_f44.png) |
 | XV | [I-Bc Q15](https://www.diamm.ac.uk/sources/117/)<br>f. 169v | ![](examples/Dufay_Benedicamus_II_I-Bc_Q15_169v-170.png) |
 | XV | [Trent 87](https://www.diamm.ac.uk/sources/807/)<br>f. 219v | ![](examples/Conditor_Alme_Siderum_Tr87_219v-220r.png) |
 | XV | [Old Hall](https://www.diamm.ac.uk/sources/210/#/images)<br>f. 44 | ![](examples/Credo_Old_Hall_f44.png) |
