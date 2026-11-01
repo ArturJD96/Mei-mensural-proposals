@@ -1,0 +1,3 @@
+[submodule "dvs/early"]
+	path = dvs/early
+	url = https://github.com/Early-Music-Typesetting/early.git

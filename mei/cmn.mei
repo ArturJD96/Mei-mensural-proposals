@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://music-encoding.org" type="application/xml" schematypens="http://relaxng.org"?>
+<mei xmlns="http://music-encoding.org" meiversion="6.0-dev">
+  <meiHead>
+    <fileDesc>
+      <pubStmt>
+        <p>Durational Value Sequence (CMN)</p>
+      </pubStmt>
+    </fileDesc>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv >
+        <score >
+          <scoreDef >
+            <staffGrp >
+              <staffDef  n="1" lines="0" notationtype="cmn"/>
+            </staffGrp>
+          </scoreDef>
+          <section >
+            <staff n="1">
+              <layer n="1">
+                <note dur="breve"/>
+                <note dur="1"/>
+                <note dur="2"/>
+                <note dur="4"/>
+                <note dur="8"/>
+                <note dur="16"/>
+              </layer>
+            </staff>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

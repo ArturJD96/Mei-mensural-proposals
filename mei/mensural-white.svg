@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="286px" height="99px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" overflow="visible" id="j1xytinh">
+   <desc>Engraved by Verovio 6.3.0</desc>
+   <defs>
+      <g id="E93C-j1xytinh">
+         <path transform="scale(1,-1)" d="M156 195l156 -195l-156 -195l-156 195zM127 110l-57 -71l115 -149l57 71z" />
+      </g>
+      <g id="E93F-j1xytinh">
+         <path transform="scale(1,-1)" d="M0 -760v760h30v-760h-30z" />
+      </g>
+      <g id="E93D-j1xytinh">
+         <path transform="scale(1,-1)" d="M156 195l156 -195l-156 -195l-156 195z" />
+      </g>
+      <g id="E94A-j1xytinh">
+         <path transform="scale(1,-1)" d="M30 -700l124 214l26 -15l-150 -259h-30v760h30v-700z" />
+      </g>
+      <g id="E94C-j1xytinh">
+         <path transform="scale(1,-1)" d="M30 -700l124 214l26 -15l-150 -259h-30v760h30v-560l124 214l26 -15l-150 -259v-80z" />
+      </g>
+   </defs>
+   <style type="text/css">#j1xytinh g.ending, #j1xytinh g.fing, #j1xytinh g.reh, #j1xytinh g.tempo {font-weight:bold;}#j1xytinh g.dir, #j1xytinh g.dynam, #j1xytinh g.mNum {font-style:italic;}#j1xytinh g.label {font-weight:normal;}#j1xytinh ellipse, #j1xytinh path, #j1xytinh polygon, #j1xytinh polyline, #j1xytinh rect {stroke:currentColor}#j1xytinh g.cursor {fill:dodgerblue; color:dodgerblue;}#j1xytinh g.cursor.chord {fill:limegreen; color:limegreen;}</style>
+   <svg class="definition-scale" color="black" font-family="Times, serif" viewBox="0 0 2860 990">
+      <g class="page-margin" transform="translate(200, 0)">
+         <g id="k1o49wzo" class="mdiv pageMilestone" />
+         <g id="l1bdg20h" class="score pageMilestone" />
+         <g id="u5josqt" class="system">
+            <g id="x1ngeaiq" class="section systemMilestone" />
+            <g id="hil2zcn" class="staff">
+               <g id="zs70sno" class="keySig" />
+               <g class="ledgerLines above">
+                  <path d="M42 360 L602 360" stroke-width="22" />
+               </g>
+               <g id="ipqcmzy" class="layer">
+                  <g id="j1gw27m5" class="note">
+                     <g class="notehead">
+                        <polygon points="108,270 536,270 536,320 108,320" />
+                        <polygon points="108,450 536,450 536,400 108,400" />
+                        <rect x="90" y="240" height="240" width="18" />
+                     </g>
+                     <g class="stem">
+                        <rect x="536" y="240" height="750" width="18" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="i1bn8gia" class="staff">
+               <g class="ledgerLines above">
+                  <path d="M596 360 L924 360" stroke-width="22" />
+               </g>
+               <g id="jkpk9xn" class="layer">
+                  <g id="k1y6958d" class="note">
+                     <g class="notehead">
+                        <polygon points="662,270 858,270 858,320 662,320" />
+                        <polygon points="662,450 858,450 858,400 662,400" />
+                        <rect x="644" y="240" height="240" width="18" />
+                     </g>
+                     <g class="stem">
+                        <rect x="858" y="240" height="750" width="18" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="k1nl2u0v" class="staff">
+               <g class="ledgerLines above">
+                  <path d="M918 360 L1246 360" stroke-width="22" />
+               </g>
+               <g id="l1jizly0" class="layer">
+                  <g id="l1sffs55" class="note">
+                     <g class="notehead">
+                        <polygon points="984,270 1180,270 1180,320 984,320" />
+                        <polygon points="984,450 1180,450 1180,400 984,400" />
+                        <rect x="966" y="240" height="240" width="18" />
+                        <rect x="1180" y="240" height="240" width="18" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="m1hcq5sa" class="staff">
+               <g class="ledgerLines above">
+                  <path d="M1240 360 L1560 360" stroke-width="22" />
+               </g>
+               <g id="nzu4njy" class="layer">
+                  <g id="mbzlh5s" class="note">
+                     <g class="notehead">
+                        <use xlink:href="#E93C-j1xytinh" transform="translate(1288, 360) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="zii09ub" class="stem">
+                        <use xlink:href="#E93F-j1xytinh" transform="translate(1390, 440) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="o1w2fw9n" class="staff">
+               <g class="ledgerLines above">
+                  <path d="M1554 360 L1874 360" stroke-width="22" />
+               </g>
+               <g id="p25sz5e" class="layer">
+                  <g id="n1wtshwz" class="note">
+                     <g class="notehead">
+                        <use xlink:href="#E93D-j1xytinh" transform="translate(1602, 360) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="a5qb652" class="stem">
+                        <use xlink:href="#E93F-j1xytinh" transform="translate(1704, 440) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="qfe4ayv" class="staff">
+               <g class="ledgerLines above">
+                  <path d="M1868 360 L2188 360" stroke-width="22" />
+               </g>
+               <g id="r14rrn0e" class="layer">
+                  <g id="o3c01j4" class="note">
+                     <g class="notehead">
+                        <use xlink:href="#E93D-j1xytinh" transform="translate(1916, 360) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="b1nl2gmm" class="stem">
+                        <use xlink:href="#E94A-j1xytinh" transform="translate(2018, 440) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="strzxx5" class="staff">
+               <g class="ledgerLines above">
+                  <path d="M2189 360 L2509 360" stroke-width="22" />
+               </g>
+               <g id="t6qk642" class="layer">
+                  <g id="p1vii7d" class="note">
+                     <g class="notehead">
+                        <use xlink:href="#E93D-j1xytinh" transform="translate(2237, 360) scale(0.72, 0.72)" />
+                     </g>
+                     <g id="cwobik5" class="stem">
+                        <use xlink:href="#E94C-j1xytinh" transform="translate(2339, 440) scale(0.72, 0.72)" />
+                     </g>
+                  </g>
+               </g>
+            </g>
+            <g id="xrxah2e" class="systemMilestoneEnd x1ngeaiq" />
+         </g>
+         <g id="y90w8xf" class="pageMilestoneEnd l1bdg20h" />
+         <g id="z1y67al7" class="pageMilestoneEnd k1o49wzo" />
+         <g id="a14d7nh2" class="pgHead autogenerated" />
+      </g>
+   </svg>
+</svg>
